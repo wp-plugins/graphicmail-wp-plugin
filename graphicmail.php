@@ -6,9 +6,9 @@ Plugin Name: GraphicMail
 
 Plugin URI: http://www.graphicmail.com/
 
-Description: GraphicMail subscription form
+Description: This GraphicMail plugin allows you to easily add a newsletter signup form to your Wordpress 2.3 (or higher) website, to allow subsciptions to your GraphicMail hosted mailing lists. Please note: You'll need the OpenSSL PHP extension to be installed on the server that hosts your wordpress.
 
-Version: 1.1
+Version: 1.2
 
 Author: GraphicMail
 
