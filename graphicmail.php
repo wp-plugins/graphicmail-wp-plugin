@@ -46,7 +46,7 @@ class G_Widget extends WP_Widget
 
 
 
-        $state = get_option('gm_off', true);
+        //$state = get_option('gm_off', true);		$state = get_option('gm_off');
 
         if($state) return;
 
@@ -303,7 +303,7 @@ function g_options()
       else
 
       {
-
+				
         update_option('gm_off', false);
 
       }
